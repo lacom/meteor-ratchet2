@@ -1,0 +1,9 @@
+{
+  "name": "ratchet2",
+  "description": "Ratchet 2.x packaged for Meteor",
+  "homepage": "https://github.com/lacom/meteor-ratchet2",
+  "author": "Dylan La Com (https://github.com/lacom)",
+  "version": "1.0.0",
+  "git": "https://github.com/lacom/meteor-ratchet2.git",
+  "packages": {}
+}
