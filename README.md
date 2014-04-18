@@ -32,7 +32,7 @@ Fill in the ```<body>``` using Rachet's header and content classes. A basic page
 <template name="header">
   <!-- Make sure all your bars are the first things in your <body> -->
   <header class="bar bar-nav">
-    <h1 class="title">luber <i class="fa fa-wrench"></i></h1>
+    <h1 class="title">Ratchet</i></h1>
   </header>
 </template>
 
