@@ -4,13 +4,14 @@ Package.describe({
 
 Package.on_use(function (api) {
 
-  api.add_files("lib/fonts/fontawesome-webfont.eot", "client");
-  api.add_files("lib/fonts/fontawesome-webfont.svg", "client");
-  api.add_files("lib/fonts/fontawesome-webfont.ttf", "client");
-  api.add_files("lib/fonts/fontawesome-webfont.woff", "client");
-  api.add_files("lib/fonts/FontAwesome.otf", "client");
+  api.add_files("lib/fonts/ratchicons.eot", "client");
+  api.add_files("lib/fonts/ratchicons.svg", "client");
+  api.add_files("lib/fonts/ratchicons.ttf", "client");
+  api.add_files("lib/fonts/ratchicons.woff", "client");
   
-  api.add_files("lib/css/font-awesome.min.css", "client");
-  api.add_files("font-awesome-overrides.css", "client");
+  api.add_files("lib/css/ratchet.min.css", "client");
+  api.add_files("lib/js/ratchet.min.js", "client");
+
+  api.add_files("ratchet-overrides.css", "client");
   
 });

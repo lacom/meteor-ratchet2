@@ -11,10 +11,14 @@ $ mrt add ratchet2
 ```
 ## Usage
 
-Place Font Awesome icons just about anywhere with the <i> tag.
-
+Add the following meta tags inside your project's ```HTML<head>```
 ```HTML
-<i class="fa fa-camera-retro"></i> fa-camera-retro
+<!-- Sets initial viewport load and disables zooming  -->
+<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
+
+<!-- Makes your prototype chrome-less once bookmarked to your phone's home screen -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
 ```
 
 For more information see: [Ratchet docs](http://goratchet.com/components/)

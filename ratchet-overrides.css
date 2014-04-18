@@ -1,0 +1,5 @@
+@font-face {
+  font-family: Ratchicons;
+  src: url('/packages/ratchet2/lib/fonts/ratchicons.eot');
+  src: url('/packages/ratchet2/lib/fonts/ratchicons.eot?#iefix') format('embedded-opentype'), url('/packages/ratchet2/lib/fonts/ratchicons.woff') format('woff'), url('/packages/ratchet2/lib/fonts/ratchicons.ttf') format('truetype'), url('/packages/ratchet2/lib/fonts/ratchicons.svg#svgFontName') format('svg');
+}
